@@ -1,4 +1,4 @@
-# Task 1 — Titanic Survival Prediction (CodSoft Internship)
+# Task 1 — Titanic Survival Prediction 
 
 This folder contains:
 - Power BI Dashboard (`Titanic.pbix`, `Dashboard.png`)
@@ -12,3 +12,6 @@ The project predicts Titanic passenger survival using a Logistic Regression mode
 - Python (Pandas, Scikit-Learn, Matplotlib)
 - Power BI
 - Jupyter Notebook
+
+## 🖼️ Dashboard Preview
+![Task 1 — Titanic Survival Prediction ](Dashboard.png)
