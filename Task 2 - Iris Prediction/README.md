@@ -11,11 +11,11 @@ Multiple models were trained and compared based on their accuracy.
 
 ---
 
-## 📊 Model Accuracy Comparison
+## 📊 Dashboard
 
 Below is the accuracy comparison of all trained models:
 
-![Accuracy Comparison](figures/complex_dashboard.png)
+![Accuracy Comparison](figures/Combined_dashboard.png)
 
 *(The image is stored inside the `figures` folder in this task.)*
 
