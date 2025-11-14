@@ -1,14 +1,42 @@
-# CODSOFT
-CODSOFT Internship Projects
+# 🌟 CODSOFT Internship Projects
 
-This repository contains all tasks completed during my **CodSoft Internship**.
+This repository contains my projects completed as part of the **CODSOFT Internship Program**.  
+Each task is organized into a separate folder with code, documentation, and outputs.
 
-## 📁 Task List
-1. [Task 1 — Titanic Survival Prediction](Task%201%20-%20Titanic%20Survival%20Prediction/)
-   - Includes Power BI Dashboard and Machine Learning Model.
-2. Task 2 — *(To be added)*
-3. Task 3 — *(To be added)*
+---
 
+## 📌 Tasks Completed
+
+### 🔹 **Task 1 — Movie Rating Prediction**
+- Built a machine learning model to predict movie ratings  
+- Worked with features such as genre, actors, and director  
+- Included data preprocessing, feature engineering, model training, and evaluation  
+- Folder: `Task 1 Titanic Survival Prediction/`
+
+---
+
+### 🔹 **Task 2 — Iris Flower Classification**
+- Used the Iris dataset to classify species based on sepal & petal measurements  
+- Cleaned dataset in Excel and built models in Python  
+- Compared multiple algorithms and visualized accuracy  
+- Folder: `Task 2 - Iris Prediction/`  
+- Includes:  
+  - Accuracy comparison figure  
+  - Confusion matrices  
+  - Feature importance plots  
+  - Saved ML model  
+
+---
+
+## 📚 Technologies Used
+
+- **Python**  
+- **Pandas, NumPy**  
+- **Scikit-learn**  
+- **Matplotlib, Seaborn**  
+- **Excel**  
+- **Jupyter
+- 
 ---
 **Author:** Arul Francisca  
 **Tools:** Python, Power BI, Excel, Jupyter Notebook
