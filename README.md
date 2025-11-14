@@ -9,9 +9,13 @@ Each task is organized into a separate folder with code, documentation, and outp
 
 ### 🔹 **Task 1 — Movie Rating Prediction**
 - Built a machine learning model to predict movie ratings  
-- Worked with features such as genre, actors, and director  
-- Included data preprocessing, feature engineering, model training, and evaluation  
-- Folder: `Task 1 Titanic Survival Prediction/`
+- Worked with features such as genre, actors, and director
+- - Folder: `Task 1 Titanic Survival Prediction/` 
+- Includes:
+     - data preprocessing
+     - feature engineering
+     - model training
+     - evaluation  
 
 ---
 
@@ -28,6 +32,22 @@ Each task is organized into a separate folder with code, documentation, and outp
 
 ---
 
+###  🔹 **Task 3 — Sales Prediction**
+- Developed a machine learning model to predict product sales based on advertising budget spent on TV, Radio, and Newspaper.
+- Performed data exploration, visualization, and generated a combined 4-chart dashboard.
+- Trained multiple regression models (Linear, Ridge, Lasso) and evaluated performance using RMSE, MAE, and R² score.
+- Also included future sales prediction using the best-performing model.
+- Folder: `Task 3 - Sales Prediction/`
+- Includes:
+  - Exploratory data analysis
+  - Multiple visual charts
+  - 4-chart combined dashboard
+  - Trained ML models
+  - Model evaluation metrics
+  - Prediction output
+
+---
+
 ## 📚 Technologies Used
 
 - **Python**  
@@ -35,8 +55,7 @@ Each task is organized into a separate folder with code, documentation, and outp
 - **Scikit-learn**  
 - **Matplotlib, Seaborn**  
 - **Excel**  
-- **Jupyter
-- 
+- **Jupyter**
 ---
 **Author:** Arul Francisca  
 **Tools:** Python, Power BI, Excel, Jupyter Notebook
